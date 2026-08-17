@@ -1,0 +1,12 @@
+{
+  "name": "verify-packages",
+  "version": "https://raw.githubusercontent.com/LyndsCorp/Verify-Packages/refs/heads/main/VERSION",
+  "apt": [],
+  "pacman": [],
+  "dnf": [],
+  "casata": [],
+  "pip": [],
+  "size": "963 B",
+  "description": "Aunque suene inútil, puede llegar a servirte cuando creas una distro basada en Debian, Arch o Fedora y necesitas verificar los paquetes.",
+  "usage": "Ejecuta 'verify-packages-GESTOR <archivo>' ese archivo tiene nombres de paquetes y el script analizará si esos paquetes existen. Cambia 'GESTOR' por 'apt', 'pacman' o 'dnf'."
+}
