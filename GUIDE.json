@@ -1,0 +1,22 @@
+{
+  "links": [
+    {
+      "file": "verify-packages-apt.sh",
+      "dest": "/usr/bin",
+      "name": "verify-packages-apt",
+      "executable": true
+    },
+    {
+      "file": "verify-packages-pacman.sh",
+      "dest": "/usr/bin",
+      "name": "verify-packages-pacman",
+      "executable": true
+    },
+    {
+      "file": "verify-packages-dnf.sh",
+      "dest": "/usr/bin",
+      "name": "verify-packages-dnf",
+      "executable": true
+    }
+  ]
+}
